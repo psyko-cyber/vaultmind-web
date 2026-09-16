@@ -14,7 +14,7 @@
 //   non nella cache. Cancellare la cache non cancella le password.
 'use strict';
 
-const VERSIONE = '20260916-160003-e65e13b';
+const VERSIONE = '20260916-163525-714b7e3';
 const CACHE = 'vaultmind-' + VERSIONE;
 const FILE = ["./","assets/AssetManifest.bin","assets/AssetManifest.bin.json","assets/assets/fonts/Inter-400.ttf","assets/assets/fonts/Inter-500.ttf","assets/assets/fonts/Inter-600.ttf","assets/assets/fonts/Inter-700.ttf","assets/assets/fonts/JetBrainsMono-400.ttf","assets/assets/fonts/JetBrainsMono-700.ttf","assets/assets/fonts/OFL-Inter.txt","assets/assets/fonts/OFL-JetBrainsMono.txt","assets/assets/fonts/OFL-SpaceGrotesk.txt","assets/assets/fonts/SpaceGrotesk-600.ttf","assets/assets/logo.png","assets/FontManifest.json","assets/fonts/MaterialIcons-Regular.otf","assets/packages/cupertino_icons/assets/CupertinoIcons.ttf","assets/shaders/ink_sparkle.frag","assets/shaders/stretch_effect.frag","canvaskit/canvaskit.js","canvaskit/canvaskit.wasm","favicon.png","flutter.js","flutter_bootstrap.js","icons/apple-touch-icon.png","icons/Icon-192.png","icons/Icon-512.png","icons/Icon-maskable-192.png","icons/Icon-maskable-512.png","index.html","main.dart.js","manifest.json","version.json"];
 
